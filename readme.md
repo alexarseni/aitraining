@@ -1,2 +1,2 @@
 Hello World
-Thsi is a readme file
+This is a readme file
