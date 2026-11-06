@@ -1,3 +1,3 @@
-Hello Git
-Thsi is a readme file
+Hello World
+This is a readme file
 Added some more info here
